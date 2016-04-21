@@ -1,7 +1,6 @@
 body
 {
   background-color:#abc6d4;
-
   font-family:Comic Sans MS;
 }
 h1
@@ -26,11 +25,10 @@ a:visited
 {
   text-decoration:none;
   color:blue;
-  
 }
 #button1
 {
-   font-size:20px;
+  font-size:20px;
   border:none;     
   background-color:#AAAAAA;
 }
