@@ -15,7 +15,6 @@ The following command needs to be executed in the command prompt to create a loc
 ```
 python -m SimpleHTTPServer
 ```
-</br>
 A port number would appear(say, 8000).  Use the address, 'http://localhost:8000/index.html'
 </br>
 Allow access to the users' location
